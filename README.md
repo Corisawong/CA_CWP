@@ -1,4 +1,5 @@
 **Field-Scale Mapping of California Crop Water Productivity to Inform Water Management in Critically Overdrafted Groundwater Basins**
+Corisa A. Wong, David B. Lobell, and Meagan S. Mauter 
 
 California’s Crop Water Productivity (CWP) and potential water savings datasets for critically overdrafted sub-basins within the San Joaquin Valley for four crop types: almonds, grapes, walnuts, citrus.
 
